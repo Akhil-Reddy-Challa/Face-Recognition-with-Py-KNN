@@ -1,1 +1,1 @@
-# face_rec_seg
+# Face Recognition with Python
